@@ -1,10 +1,10 @@
-It's me, Tierney!
+Hey , Samer Here
 
 # Usage
 
 ## npm
 ```
-npx bitandbang
+npx devsamer
 ```
 
 ## GitHub Package Registry
